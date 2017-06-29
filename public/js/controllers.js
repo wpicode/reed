@@ -28,6 +28,7 @@ app.controller('myCtrl',['$scope','$interval','$sce','$http', function($scope,$i
             $scope.Name = candidate.Name;
             $scope.MostRecentEmployment = candidate.MostRecentEmployment;
             $scope.Salary = candidate.Salary;
+            $scope.Id =candidate.Id;
             $scope.CurrentLocation = candidate.CurrentLocation;
             $scope.skills = candidate.Skills;
         }
@@ -37,6 +38,11 @@ app.controller('myCtrl',['$scope','$interval','$sce','$http', function($scope,$i
     $scope.shortlisted = [];
     $scope.shortlist = function(){
         $scope.shortlisted.push($scope.Id);
+        var uniqueList = [];
+        $.each( $scope.shortlisted, function(i, el){
+            if($.inArray(el, uniqueList) === -1) uniqueList.push(el);
+        });
+        $scope.shortlisted = uniqueList;
     }
 }]);
 
