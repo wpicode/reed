@@ -1,0 +1,60 @@
+body {
+  padding: 20px 0;
+  font-size: 12px; }
+
+.form-control {
+  font-size: 12px; }
+
+#mocha ul {
+  position: relative; }
+
+.sidebar label {
+  font-weight: bold;
+  margin-top: 8px; }
+
+.sort-wrap label {
+  padding: 4px;
+  margin-bottom: 0;
+  line-height: 26px; }
+
+.sort-wrap #sort {
+  max-width: 150px;
+  float: right; }
+
+.header {
+  padding: 10px 0; }
+
+.selected.candidate {
+  border: 2px solid #ccc; }
+
+.skills {
+  margin-top: 10px;
+  border-top: 1px solid #ccc; }
+  .skills p {
+    margin-bottom: 2px; }
+
+.visible-shortlisted {
+  display: inline-block;
+  padding: 0 20px;
+  font-weight: bold; }
+
+.candidate {
+  margin-bottom: 10px;
+  padding: 10px;
+  cursor: pointer;
+  border: 2px solid #eee;
+  border-radius: 10px; }
+  .candidate a {
+    font-size: 14px; }
+  .candidate p {
+    text-indent: 10px;
+    margin: 0 2px; }
+
+.preview-candidate {
+  padding: 15px;
+  border: 2px solid #ccc;
+  border-radius: 10px; }
+  .preview-candidate h4 {
+    margin-bottom: 20px; }
+  .preview-candidate p {
+    margin: 0 4px; }

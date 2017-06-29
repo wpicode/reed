@@ -1,0 +1,105 @@
+{
+"NumberOfMatches": 10,
+"Matches": [
+   {
+      "Id":100000,
+      "Name":"Markus Berg",
+      "Salary":"£60,000 p.a.",
+      "MostRecentEmployment":"Pricing expert",
+      "MostRecentEmploymentDurationInYears": 2.5,
+      "CurrentLocation": "London, N2",
+      "DistanceInMiles": 8.2,
+      "Skills": ["MS PowerPoint", "MS Excel", "Keyboard cleaning", "Table setting"]
+   },
+   {
+      "Id":100001,
+      "Name":"Ian Blake",
+      "Salary":"£35,000 p.a.",
+      "MostRecentEmployment":"Senior pricing manager",
+      "MostRecentEmploymentDurationInYears": 1.5,
+      "CurrentLocation": "London, E11",
+      "DistanceInMiles": 4.6,
+      "Skills": ["MS Office", "Visual Studio", "Maths", "Accountancy", "Dog grooming"]
+   },
+   {
+      "Id":100010,
+      "Name":"Kelly Clarkson",
+      "Salary":"Not specified",
+      "MostRecentEmployment":"Pricing Analyst",
+      "MostRecentEmploymentDurationInYears": null,
+      "CurrentLocation": "London, WC3",
+      "DistanceInMiles": 3.2,
+      "Skills": ["Pricing", "Analysis", "Hang gliding"]
+   },
+   {
+      "Id":100011,
+      "Name":"Ashley Troops",
+      "Salary":"£66,000 p.a.",
+      "MostRecentEmployment":"Pricing Expert",
+      "MostRecentEmploymentDurationInYears": 5,
+      "CurrentLocation": "Not specified",
+      "DistanceInMiles": null,
+      "Skills": ["Pricing", "Statistical Analysis", "Linear Algebra", "Advanced scuba-diving"]
+   },
+   {
+      "Id":100100,
+      "Name":"Billy Jones",
+      "Salary":"£29,000 p.a.",
+      "MostRecentEmployment":"Pricing Expert",
+      "MostRecentEmploymentDurationInYears": 2,
+      "CurrentLocation": "London SE4",
+      "DistanceInMiles": 9.9,
+      "Skills": ["MS Word", "Hiking"]
+   },
+   {
+      "Id":100101,
+      "Name":"Diego Costa",
+      "Salary":"£58,000 p.a.",
+      "MostRecentEmployment":"Not specified",
+      "MostRecentEmploymentDurationInYears": null,
+      "CurrentLocation": "London SW2",
+      "DistanceInMiles": 1.8,
+      "Skills": ["Linux", "SQL", "C#", "Visual Studio"]
+   },
+   {
+      "Id":100110,
+      "Name":"Jennifer Smith",
+      "Salary":"£44,000 p.a.",
+      "MostRecentEmployment":"Senior pricing expert",
+      "MostRecentEmploymentDurationInYears": 1.5,
+      "CurrentLocation": "London EC2",
+      "DistanceInMiles": 9.2,
+      "Skills": ["Consultancy", "Accountancy", "MS Calculator"]
+   },
+   {
+      "Id":100111,
+      "Name":"Allistair Smith",
+      "Salary":"£38,000 p.a.",
+      "MostRecentEmployment":"Pricing consultant",
+      "MostRecentEmploymentDurationInYears": 0.5,
+      "CurrentLocation": "London E8",
+      "DistanceInMiles": 5.4,
+      "Skills": ["Differencial Equations", "Maths modeling", "Finance", "Skiing"]
+   },
+   {
+      "Id":101000,
+      "Name":"James Patelidis",
+      "Salary":"£25,000 p.a.",
+      "MostRecentEmployment":"Junior pricing advisor",
+      "MostRecentEmploymentDurationInYears": 1.5,
+      "CurrentLocation": "Not specified",
+      "DistanceInMiles": null,
+      "Skills": ["Advanced Maths", "Calculus", "Dancing"]
+   },
+   {
+      "Id":101001,
+      "Name":"Johnie Walker",
+      "Salary":"£30,000 p.a.",
+      "MostRecentEmployment":"Senior Accountanct",
+      "MostRecentEmploymentDurationInYears": 45,
+      "CurrentLocation": "London N8",
+      "DistanceInMiles": 6.2,
+      "Skills": ["Accountancy", "AAT", "Skydiving"]
+   }
+]
+}
